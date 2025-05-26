@@ -76,3 +76,7 @@ This pipeline uses a **Producer-Consumer pattern** with multiple consumer thread
 - Handle exceptions carefully within consumers to avoid silent failures.
 - This pattern can be adapted for any large file processing tasks requiring asynchronous, batch-oriented persistence.
 
+https://github.com/user-attachments/assets/9d5c95b0-7a47-4cf0-ae78-53d144ac8c41
+
+
+
