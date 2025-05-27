@@ -59,9 +59,16 @@ Processing large CSV files directly in a single thread can cause performance bot
 
 ### 🚀 Run Locally (Without Docker)
 
-```bash
+
 # Build the JAR
 mvn clean package
 
 # Run the JAR
 java -jar target/bulkuploadpipeline-0.0.1-SNAPSHOT.jar
+
+
+
+
+https://github.com/user-attachments/assets/df2e7082-e46e-4469-84c9-b27c3151b10c
+
+
